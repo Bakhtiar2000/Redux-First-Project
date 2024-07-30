@@ -32,7 +32,7 @@ const AddTodoModal = () => {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <Button className="bg-primary-gradient text-xl font-semibold">
+        <Button className="bg-primary-gradient text-lg font-semibold">
           Add Todo
         </Button>
       </DialogTrigger>
